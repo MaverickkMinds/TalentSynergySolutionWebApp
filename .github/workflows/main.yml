@@ -1,0 +1,56 @@
+name: Deploy .NET 8 App to GoDaddy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x' # Adjust to the version of .NET 8 you are using
+
+    - name: Restore dependencies
+      run: dotnet restore TalergySolutions.WebApp.csproj
+
+    - name: Build
+      run: dotnet build TalergySolutions.WebApp.csproj --configuration Release --no-restore
+
+    - name: Publish
+      run: dotnet publish TalergySolutions.WebApp.csproj -c Release -o ./publish/
+        
+    - name: Add app_offline.htm
+      run: echo '<h1>Application is offline for maintenance</h1>' > ./publish/app_offline.htm
+
+    - name: Copy appsettings.json
+      run: cp appsettings.json ./publish/
+
+    - name: Deploy to GoDaddy
+      uses: SamKirkland/FTP-Deploy-Action@4.2.0
+      with:
+        server: 160.153.155.186
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        port: 21
+        protocol: ftp
+        local-dir: ./publish/
+        server-dir: /talentsynergysolution.com/
+
+    - name: Remove app_offline.htm from server
+      run: |
+        ftp -inv 160.153.155.186 <<EOF
+        user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }}
+        cd /talentsynergysolution.com/
+        delete app_offline.htm
+        bye
+        EOF
+
+# Note: Add your FTP credentials to GitHub Secrets (Settings > Secrets > Actions)
