@@ -1,0 +1,730 @@
+C:/my proj/TalentSynergy/bin/Debug/net8.0/appsettings.Development.json
+C:/my proj/TalentSynergy/bin/Debug/net8.0/appsettings.json
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.staticwebassets.runtime.json
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.exe
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.deps.json
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.runtimeconfig.json
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/TalentSynergy.pdb
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.GeneratedMSBuildEditorConfig.editorconfig
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.AssemblyInfoInputs.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.AssemblyInfo.cs
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.csproj.CoreCompileInputs.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.MvcApplicationPartsAssemblyInfo.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.RazorAssemblyInfo.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.RazorAssemblyInfo.cs
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets.build.json
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets.development.json
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.TalentSynergy.Microsoft.AspNetCore.StaticWebAssets.props
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.build.TalentSynergy.props
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TalentSynergy.props
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TalentSynergy.props
+C:/my proj/TalentSynergy/obj/Debug/net8.0/staticwebassets.pack.json
+C:/my proj/TalentSynergy/obj/Debug/net8.0/scopedcss/bundle/TalentSynergy.styles.css
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.dll
+C:/my proj/TalentSynergy/obj/Debug/net8.0/refint/TalentSynergy.dll
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.pdb
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.genruntimeconfig.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/ref/TalentSynergy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Endpoints.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Results.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Session.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.CSharp.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Memory.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Features.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Http.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Stores.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.JSInterop.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Net.Http.Headers.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.VisualBasic.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.VisualBasic.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Win32.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Win32.Registry.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/mscorlib.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/netstandard.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.AppContext.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Buffers.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Concurrent.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Immutable.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.NonGeneric.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Specialized.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.Annotations.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.TypeConverter.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Configuration.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Console.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Core.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Data.Common.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Data.DataSetExtensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Data.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Contracts.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Debug.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.DiagnosticSource.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.EventLog.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Process.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.StackTrace.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Tools.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.TraceSource.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Tracing.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Drawing.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Drawing.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Dynamic.Runtime.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Formats.Asn1.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Formats.Tar.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.Calendars.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.Brotli.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.FileSystem.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.ZipFile.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.AccessControl.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.Watcher.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.IsolatedStorage.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.MemoryMappedFiles.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipelines.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipes.AccessControl.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipes.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Expressions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Parallel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Queryable.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Memory.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Http.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Http.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.HttpListener.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Mail.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.NameResolution.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.NetworkInformation.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Ping.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Quic.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Requests.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Security.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.ServicePoint.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Sockets.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebClient.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebHeaderCollection.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebProxy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebSockets.Client.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebSockets.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Numerics.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Numerics.Vectors.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ObjectModel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.DispatchProxy.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Metadata.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.TypeExtensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.Reader.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.ResourceManager.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.Writer.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Handles.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.JavaScript.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Intrinsics.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Loader.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Numerics.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Xml.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.AccessControl.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Claims.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Cng.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Csp.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Encoding.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.OpenSsl.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Primitives.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Xml.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Principal.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Principal.Windows.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Security.SecureString.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ServiceModel.Web.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ServiceProcess.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.CodePages.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encodings.Web.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Text.RegularExpressions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Channels.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Overlapped.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.RateLimiting.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Parallel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Thread.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.ThreadPool.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Timer.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Transactions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Transactions.Local.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.ValueTuple.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Web.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Web.HttpUtility.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Windows.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.Linq.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.ReaderWriter.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.Serialization.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XDocument.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XmlDocument.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XmlSerializer.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XPath.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XPath.XDocument.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/refs/WindowsBase.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/System.Text.Json.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.csproj.AssemblyReference.cache
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSynergy.MvcApplicationPartsAssemblyInfo.cs
+C:/my proj/TalentSynergy/obj/Debug/net8.0/TalentSy.4D0F0DF2.Up2Date
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/appsettings.Development.json
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/appsettings.json
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy.staticwebassets.runtime.json
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy.deps.json
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy.runtimeconfig.json
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/TalentSynergy.pdb
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.BearerToken.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Endpoints.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.CSharp.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Features.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Http.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.JSInterop.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.VisualBasic.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Win32.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/Microsoft.Win32.Registry.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/mscorlib.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/netstandard.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.AppContext.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Buffers.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Concurrent.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Immutable.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.NonGeneric.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Collections.Specialized.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.Annotations.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Configuration.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Console.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Core.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Data.Common.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Data.DataSetExtensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Data.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Contracts.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Debug.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.EventLog.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Process.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.StackTrace.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Tools.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.TraceSource.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Diagnostics.Tracing.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Drawing.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Drawing.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Dynamic.Runtime.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Formats.Asn1.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Formats.Tar.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.Calendars.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Globalization.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.Brotli.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.FileSystem.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Compression.ZipFile.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.IsolatedStorage.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipelines.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.Pipes.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Expressions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Parallel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Linq.Queryable.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Memory.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Http.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Http.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.HttpListener.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Mail.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.NameResolution.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.NetworkInformation.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Ping.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Quic.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Requests.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Security.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.ServicePoint.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.Sockets.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebClient.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebHeaderCollection.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebProxy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebSockets.Client.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Net.WebSockets.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Numerics.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Numerics.Vectors.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ObjectModel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.DispatchProxy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Metadata.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Reflection.TypeExtensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.Reader.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.ResourceManager.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Resources.Writer.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Handles.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Intrinsics.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Loader.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Numerics.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.AccessControl.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Claims.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Cng.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Csp.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Cryptography.Xml.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Principal.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.Principal.Windows.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Security.SecureString.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ServiceModel.Web.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ServiceProcess.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.CodePages.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encoding.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Text.Encodings.Web.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Text.RegularExpressions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Channels.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Overlapped.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.RateLimiting.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Thread.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.ThreadPool.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Threading.Timer.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Transactions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Transactions.Local.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.ValueTuple.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Web.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Web.HttpUtility.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Windows.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.Linq.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.ReaderWriter.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.Serialization.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XDocument.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XmlDocument.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XmlSerializer.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XPath.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/System.Xml.XPath.XDocument.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/refs/WindowsBase.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/System.Text.Json.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.csproj.AssemblyReference.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.AssemblyInfoInputs.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.AssemblyInfo.cs
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.csproj.CoreCompileInputs.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.MvcApplicationPartsAssemblyInfo.cs
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.MvcApplicationPartsAssemblyInfo.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.RazorAssemblyInfo.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.RazorAssemblyInfo.cs
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.TalentSynergy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.build.TalentSynergy.props
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TalentSynergy.props
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TalentSynergy.props
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/scopedcss/bundle/TalentSynergy.styles.css
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSy.4D0F0DF2.Up2Date
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/refint/TalentSynergy.dll
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.pdb
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/TalentSynergy.genruntimeconfig.cache
+/Users/sagarnarkar/Downloads/TalentSynergy/obj/Debug/net8.0/ref/TalentSynergy.dll

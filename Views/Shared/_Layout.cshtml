@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Talergy Solutions | Home</title>
+    <meta name="author" content="Maverickk Minds">
+    <meta name="description" content="Talergy Solutions | HR Consultancy & Services">
+    <meta name="keywords" content="Talergy Solutions | HR Consultancy & Services">
+    <meta name="robots" content="INDEX,FOLLOW">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/app.min.css">
+    <link rel="stylesheet" href="css/fontawesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="preloader">
+    <button class="vs-btn preloaderCls">Cancel Preloader</button>
+    <div class="preloader-inner">
+        <img src="img/logo.png" alt="Talergy Solutions"> <span class="loader"></span>
+    </div>
+</div>
+<div class="body-shape1" data-bg-src="img/hero/hero-shape-6.png">
+    @{
+        await Html.RenderPartialAsync("_Header");
+    }
+
+    @RenderBody();
+
+    @{
+        await Html.RenderPartialAsync("_Footer");
+    }
+</div>
+
+
+<a href="#" class="scrollToTop scroll-btn">
+    <i class="far fa-arrow-up"></i>
+</a>
+<script src="js/vendor/jquery-3.6.0.min.js"></script>
+<script src="~/js/layerslider.kreaturamedia.jquery.js"></script>
+<script src="~/js/layerslider.transitions.js"></script>
+<script src="~/js/layerslider.utils.js"></script>
+<script src="js/app.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+
+</html>
