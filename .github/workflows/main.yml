@@ -42,13 +42,13 @@ jobs:
         port: 21
         protocol: ftp
         local-dir: ./publish/
-        server-dir: /talentsynergysolution.com/
+        server-dir: /TalergySolutions/
 
     - name: Remove app_offline.htm from server
       run: |
         ftp -inv 160.153.155.186 <<EOF
         user ${{ secrets.FTP_USERNAME }} ${{ secrets.FTP_PASSWORD }}
-        cd /talentsynergysolution.com/
+        cd /TalergySolutions/
         delete app_offline.htm
         bye
         EOF
